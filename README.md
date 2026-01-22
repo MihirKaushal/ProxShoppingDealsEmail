@@ -73,7 +73,6 @@ Create a `.env` file at the project root:
 SUPABASE_URL=your_supabase_url
 SUPABASE_SERVICE_ROLE_KEY=your_service_key
 RESEND_API_KEY=your_resend_api_key
-TEST_EMAIL=mihir.kaush@gmail.com
 ```
 
 Note: When using a free Resend account, emails can only be sent to the verified test email.
