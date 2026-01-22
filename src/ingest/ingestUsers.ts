@@ -1,3 +1,5 @@
+// This file sets up test users so the filtering logic can be demonstrated end to end.
+
 //Load users.json.
 //Insert users with onConflict: email.
 

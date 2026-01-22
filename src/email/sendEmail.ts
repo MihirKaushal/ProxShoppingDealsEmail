@@ -1,3 +1,6 @@
+// This file is a thin wrapper around the email provider. 
+// If we switched providers, only this file would change.
+
 //Initialize Resend client.
 //Pass subject, html, and text.
 //Log success or error.

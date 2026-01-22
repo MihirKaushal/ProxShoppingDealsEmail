@@ -1,3 +1,6 @@
+// This file separates presentation from logic.
+// It turns structured data into readable, branded email content.
+
 //generateEmail(user, groupedDeals) => { html, text }
 
 export function generateEmail(user: any, groupedDeals: Record<string, any[]>) {

@@ -1,3 +1,6 @@
+// This is the personalization layer. 
+// Each user only sees deals from retailers they care about.
+
 //Logic:
 //Accept all deals and a user.
 //Filter deals where retailer name is in user.preferred_retailers.

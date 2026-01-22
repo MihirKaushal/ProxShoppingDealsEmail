@@ -116,16 +116,11 @@ Brand colors used:
 
 ---
 
-## What I’d Build Next (With 2 More Days)
-
-### Day 1
+## What I’d Build Next
 
 * Add a small preview web page that renders the same deals shown in the email
 * Introduce unit price calculations where size is parseable
 * Improve deduplication by enforcing unique DB constraints
-
-### Day 2
-
 * Add a simple scraper for one retailer that outputs normalized deal JSON
 * Add retry and backoff logic for email sends
 * Add basic analytics logging for opens and send success

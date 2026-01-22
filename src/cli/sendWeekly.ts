@@ -1,3 +1,7 @@
+// This file is the controller. 
+// It does not contain business logic. 
+// It just coordinates the steps in order so the system can run as a single command.
+
 //flow:
 //await ingestDeals()
 //await ingestUsers()

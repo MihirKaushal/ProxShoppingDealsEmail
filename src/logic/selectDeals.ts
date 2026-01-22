@@ -1,3 +1,6 @@
+// This file handles data retrieval and normalization. 
+// It converts raw database rows into strongly typed objects that the rest of the app can trust.
+
 import { supabase } from "../db/client";
 import { Deal } from "../types/deal";
 

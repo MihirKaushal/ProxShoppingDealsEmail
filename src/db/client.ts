@@ -1,3 +1,5 @@
+// This centralizes database access so credentials and configuration live in one place.
+
 import { createClient } from "@supabase/supabase-js";
 import dotenv from "dotenv";
 
